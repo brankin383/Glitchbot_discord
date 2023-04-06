@@ -1,0 +1,1 @@
+worker: python NewBot.py
